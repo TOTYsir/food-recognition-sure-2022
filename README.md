@@ -1,2 +1,2 @@
-# food-recognition-sure-2022
-Sheffield Undergraduate Research Experience (SURE) 2022 Project - Computer vision for food intake monitoring
+# SURE 2022 - Computer Vision for Food Intake Monitoring
+This is an implementation of Yue Wang's research project **Computer Vision for Food Intake Monitoring**.
